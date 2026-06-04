@@ -1,0 +1,15 @@
+[project]
+name = "circle-nn-example"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.12"
+dependencies = [
+    "keras>=3.14.1",
+    "matplotlib>=3.10.9",
+    "notebook>=7.5.7",
+    "pandas>=3.0.3",
+    "plotnine>=0.15.3",
+    "scikit-learn>=1.9.0",
+    "statsmodels>=0.14.6",
+    "tensorflow>=2.21.0",
+]
